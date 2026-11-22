@@ -1,0 +1,58 @@
+{
+  "cards": [
+    {
+      "title": "The Odyssey",
+      "app": "com.nuvio.tv",
+      "value": "IMDb 8.4",
+      "subtitle": "Trending movie · 2026",
+      "image": "https://images.metahub.space/poster/small/tt33764258/img"
+    },
+    {
+      "title": "The Lord of the Rings: The Rings of Pow…",
+      "app": "com.nuvio.tv",
+      "value": "IMDb 6.8",
+      "subtitle": "Trending series · 2022",
+      "image": "https://images.metahub.space/poster/small/tt7631058/img"
+    },
+    {
+      "title": "The End of Oak Street",
+      "app": "com.nuvio.tv",
+      "value": "IMDb 6.5",
+      "subtitle": "Trending movie · 2026",
+      "image": "https://images.metahub.space/poster/small/tt27165187/img"
+    },
+    {
+      "title": "The Body",
+      "app": "com.nuvio.tv",
+      "subtitle": "Trending series · 2026",
+      "image": "https://images.metahub.space/poster/small/tt8014982/img"
+    },
+    {
+      "title": "Heart of the Beast",
+      "app": "com.nuvio.tv",
+      "value": "IMDb 7.1",
+      "subtitle": "Trending movie · 2026",
+      "image": "https://images.metahub.space/poster/small/tt7526136/img"
+    },
+    {
+      "title": "MobLand",
+      "app": "com.nuvio.tv",
+      "value": "IMDb 8.3",
+      "subtitle": "Trending series · 2025",
+      "image": "https://images.metahub.space/poster/small/tt31510819/img"
+    },
+    {
+      "title": "Resident Evil",
+      "app": "com.nuvio.tv",
+      "subtitle": "Trending movie · 2026",
+      "image": "https://images.metahub.space/poster/small/tt35538033/img"
+    },
+    {
+      "title": "VisionQuest",
+      "app": "com.nuvio.tv",
+      "value": "IMDb 7.8",
+      "subtitle": "Trending series · 2026",
+      "image": "https://images.metahub.space/poster/small/tt23112594/img"
+    }
+  ]
+}
